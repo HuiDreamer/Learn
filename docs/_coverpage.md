@@ -1,4 +1,4 @@
-![logo](https://i.loli.net/2020/02/05/9b7Wpd8TZLiSfNg.jpg)
+![logo](https://s2.ax1x.com/2020/02/05/1sSJI0.th.jpg)
 
 # Neosey Learn <small>1.0.0</small>
 
